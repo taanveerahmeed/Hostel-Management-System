@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1417888277 source:h:\code blocks\hostel management\main.cpp
+	"database.h"
+
+1417888364 h:\code blocks\hostel management\member.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<vector>
+
+1417886159 source:h:\code blocks\hostel management\source1.cpp
+	"member.h"
+
+1417853847 source:h:\code blocks\hostel management\source2.cpp
+	"admin.h"
+
+1417712447 h:\code blocks\hostel management\admin.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	"member.h"
+
+1418059660 source:h:\code blocks\hostel management\source3.cpp
+	"database.h"
+
+1418050154 h:\code blocks\hostel management\database.h
+	"admin.h"
+	<vector>
+
+1417888277 source:h:\hostel management\main.cpp
+	"database.h"
+
+1418050154 h:\hostel management\database.h
+	"admin.h"
+	<vector>
+
+1417712447 h:\hostel management\admin.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	"member.h"
+
+1418104819 h:\hostel management\member.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<ctime>
+
+1418104819 source:h:\hostel management\source1.cpp
+	"member.h"
+
+1417853847 source:h:\hostel management\source2.cpp
+	"admin.h"
+
+1418104874 source:h:\hostel management\source3.cpp
+	"database.h"
+
+1417888278 source:j:\hostel management(binary)\main.cpp
+	"database.h"
+
+1418050156 j:\hostel management(binary)\database.h
+	"admin.h"
+	<vector>
+
+1417712448 j:\hostel management(binary)\admin.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	"member.h"
+
+1418104820 j:\hostel management(binary)\member.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<ctime>
+
+1418104820 source:j:\hostel management(binary)\source1.cpp
+	"member.h"
+
+1417853848 source:j:\hostel management(binary)\source2.cpp
+	"admin.h"
+
+1418104876 source:j:\hostel management(binary)\source3.cpp
+	"database.h"
+
+1417888278 source:f:\hostel management(binary)\main.cpp
+	"database.h"
+
+1418050156 f:\hostel management(binary)\database.h
+	"admin.h"
+	<vector>
+
+1417712448 f:\hostel management(binary)\admin.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	"member.h"
+
+1418104820 f:\hostel management(binary)\member.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<ctime>
+
+1418104820 source:f:\hostel management(binary)\source1.cpp
+	"member.h"
+
+1417853848 source:f:\hostel management(binary)\source2.cpp
+	"admin.h"
+
+1418104876 source:f:\hostel management(binary)\source3.cpp
+	"database.h"
+
+1417888278 source:h:\c++\hostel management(binary)\main.cpp
+	"database.h"
+
+1418050156 h:\c++\hostel management(binary)\database.h
+	"admin.h"
+	<vector>
+
+1417712448 h:\c++\hostel management(binary)\admin.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	"member.h"
+
+1418104820 h:\c++\hostel management(binary)\member.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<ctime>
+
+1418104820 source:h:\c++\hostel management(binary)\source1.cpp
+	"member.h"
+
+1417853848 source:h:\c++\hostel management(binary)\source2.cpp
+	"admin.h"
+
+1418104876 source:h:\c++\hostel management(binary)\source3.cpp
+	"database.h"
+
